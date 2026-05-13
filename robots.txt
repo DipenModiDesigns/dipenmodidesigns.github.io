@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dipenmodidesigns.github.io/sitemap.xml
