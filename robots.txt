@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+# Unlisted review page for hero options
+Disallow: /hero-review
 
 Sitemap: https://dipenmodidesigns.github.io/sitemap.xml
