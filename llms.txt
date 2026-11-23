@@ -1,0 +1,78 @@
+# Dipen Modi
+
+> Senior Frontend Developer in Ahmedabad, Gujarat, India. I turn designs into responsive, maintainable interfaces. 6+ years of experience building custom WordPress and Craft CMS sites, API-driven dashboards and interactive client tools.
+
+Senior Frontend Developer with 6+ years of professional web development experience and earlier part-time design experience. Contributed to approximately 90–100 websites and web applications across SaaS, finance, e-commerce, real estate, hospitality and other sectors.
+
+## About
+
+I started in 2018 doing part-time web and graphic design at GlooCab, creating digital assets and supporting website presentation.
+
+In 2020 I joined iFlair Web Technologies as a web designer, converting PSD and Adobe XD designs into responsive layouts and WordPress themes. That work pulled me into frontend development: I became a frontend developer in 2022 and a senior frontend developer in 2023, working with Vue.js, React.js, Tailwind CSS and SCSS.
+
+From March 2024 to October 2026 I was a senior frontend developer at IZYGROW BV, building Craft CMS templates, SaaS dashboard components for Payit, interactive elements like configurators and SVG maps, and Laravel-based application frontends together with backend developers.
+
+I translate Figma designs into responsive interfaces, build custom WordPress and Craft CMS solutions, and develop API-driven dashboards and interactive client tools. I work closely with designers, clients and backend developers to get there.
+
+## Own products
+
+- [ElementLens](https://dipenmodidesigns.github.io/projects/elementlens/): Free browser extension: pick any element on a web page and copy its HTML, CSS, Tailwind or JSX. Live: https://dipenmodidesigns.github.io/ElementLens/
+- [OrganizeAgain](https://dipenmodidesigns.github.io/projects/organizeagain/): Invoicing for freelancers and small agencies: clients, projects and invoices in one place. Live: https://organizeagain.app/
+
+## Selected client work
+
+- [Payit](https://dipenmodidesigns.github.io/projects/payit/): SaaS payments platform. Public website, pricing pages and dashboard interfaces built from Figma.
+- [Nanopixel3D](https://dipenmodidesigns.github.io/projects/nanopixel/): 3D project services. Responsive interfaces plus a private client editor with collaborative commenting.
+- [Vintecc](https://dipenmodidesigns.github.io/projects/vintecc/): Craft CMS website for a software and AI technology company, including blog and jobs built from scratch.
+- [M Select Kasten](https://dipenmodidesigns.github.io/projects/mselectkasten/): Custom-made closets, with a 3D configurator for exploring layouts, materials and storage needs.
+
+## Experience
+
+- Senior Frontend Developer, IZYGROW BV (Mar 2024 - Oct 2026)
+- Senior Frontend Developer, iFlair Web Technologies Pvt. Ltd. (Feb 2023 - Mar 2024)
+- Frontend Developer, iFlair Web Technologies Pvt. Ltd. (Feb 2022 - Feb 2023)
+- Web Designer, iFlair Web Technologies Pvt. Ltd. (Feb 2020 - Feb 2022)
+- Graphic Web Specialist (Part-time), GlooCab (Jan 2018 - Feb 2020)
+
+## Skills
+
+- Frontend: HTML5, CSS3, JavaScript, Responsive web design, SCSS, TailwindCSS, Bootstrap, AlpineJS, Vue.js, ReactJS
+- CMS & E-commerce: WordPress, CraftCMS, ACF, Elementor, Magento frontend, Shopify, Liquid
+- Templating & Integration: Twig, PHP, API integration, Laravel frontend collaboration
+- UI/UX & Design: Figma, Adobe XD, Photoshop, Illustrator, Sketch, Interaction design, Visual design
+- Quality & Accessibility: Responsive testing, Cross-browser testing, UI/visual QA, Keyboard navigation, Colour contrast, Semantic HTML, Form validation, Error handling, API testing, Performance optimization
+- Workflow: Git, CI/CD workflows, Browser debugging, Client collaboration
+
+## Contact
+
+- Email: clamstudios0905@gmail.com
+- LinkedIn: https://www.linkedin.com/in/desigr-dipen-modi/
+- GitHub: https://github.com/DipenModiDesigns
+- CV: https://dipenmodidesigns.github.io/Dipen_Modi_CV.pdf
+
+## Optional
+
+- [Securities De Munter (SDM)](https://dipenmodidesigns.github.io/projects/sdm/): Wealth management website built from scratch on a custom WordPress theme.
+- [AZV](https://dipenmodidesigns.github.io/projects/azv/): Website with API-driven content, search and a timeline, frontend developed from scratch.
+- [One Hockey](https://dipenmodidesigns.github.io/projects/onehockey/): Shopify storefront for a hockey clothing brand.
+- [Gregoir Group](https://dipenmodidesigns.github.io/projects/gregoir/): Frontend for the redesign of an existing automotive website.
+- [SDM Classic](https://dipenmodidesigns.github.io/projects/sdmclassic/): A separate website project related to SDM. The URL currently redirects to the main SDM website.
+- [Veepie](https://dipenmodidesigns.github.io/projects/veepie/): Web development agency specializing in websites, applications, and webshops with a focus on efficiency.
+- [TerWallen Hotel](https://dipenmodidesigns.github.io/projects/terwallen/): Boutique hotel in a historic castle offering a unique stay in the heart of Izegem.
+- [JustUno](https://dipenmodidesigns.github.io/projects/justuno/): Website marketing automation platform for lead capture and conversion.
+- [Talbot House](https://dipenmodidesigns.github.io/projects/talbothouse/): Flanders war museum and guesthouse offering a unique stay in an authentic British soldiers' club.
+- [OptiekExclusief](https://dipenmodidesigns.github.io/projects/optiekexclusief/): Professional optician and hearing center in Izegem offering premium glasses and lenses.
+- [Leo Stevens](https://dipenmodidesigns.github.io/projects/leosteavns/): Asset management firm specializing in private banking and investment advice.
+- [Vinix Graphic Agency](https://dipenmodidesigns.github.io/projects/vinix/): Independent creative agency dedicated to branding, digital marketing, and web design.
+- [Assur Invest](https://dipenmodidesigns.github.io/projects/assurinvest/): Independent insurance broker delivering custom solutions for individuals and businesses.
+- [Altwood](https://dipenmodidesigns.github.io/projects/altwood/): Specialist in interior customization, custom cabinets, and interior joinery.
+- [Med by Rosa](https://dipenmodidesigns.github.io/projects/medbyrosa/): Specialized center for non-invasive aesthetic treatments and anti-aging solutions.
+- [CD Lawyers](https://dipenmodidesigns.github.io/projects/cdlawyers/): Trusted experts in AI, Cyber Security, Data Protection and Commercial Law.
+- [Immo Margriet](https://dipenmodidesigns.github.io/projects/immomargriet/): Real estate agency specializing in property sales in the Keerbergen region.
+- [Akanni](https://dipenmodidesigns.github.io/projects/akanni/): Interior design service focusing on transforming visions into reality.
+- [Expat Services](https://dipenmodidesigns.github.io/projects/expatservices/): Specialized support for managing international workforces and cross-border employment.
+- [Bierhandel De Kroon](https://dipenmodidesigns.github.io/projects/bierhandeldekroon/): Beverage wholesaler and retailer offering a vast selection for events and businesses.
+- [Kitetrotter](https://dipenmodidesigns.github.io/projects/kitetrotter/): Two-sided marketplace for kitesurfing travel and booking management.
+- [Value Xstream](https://dipenmodidesigns.github.io/projects/valuexstream/): Supply chain consulting guiding strategic and operational optimization.
+- [European Capital Partners](https://dipenmodidesigns.github.io/projects/europeancapitalpartners/): Wealth engineers providing asset management and fund services in Luxembourg.
+- [Working demos](https://dipenmodidesigns.github.io/demos/): element picker, configurator, dashboard table and responsive layout

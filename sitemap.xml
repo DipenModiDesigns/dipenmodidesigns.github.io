@@ -2,130 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dipenmodidesigns.github.io/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/payit</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/nanopixel</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/vintecc</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/sdm</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/mselectkasten</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/azv</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/onehockey</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/gregoir</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/projects/sdmclassic</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dipenmodidesigns.github.io/demos</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/elementlens</loc>
+    <loc>https://dipenmodidesigns.github.io/demos/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/payit/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/organizeagain</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/nanopixel/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/veepie</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/vintecc/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/terwallen</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/sdm/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/justuno</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/mselectkasten/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/talbothouse</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/azv/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/optiekexclusief</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/onehockey/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/leosteavns</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/gregoir/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/vinix</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/sdmclassic/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/assurinvest</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/elementlens/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/altwood</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/organizeagain/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/medbyrosa</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/veepie/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/cdlawyers</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/terwallen/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/immomargriet</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/justuno/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/akanni</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/talbothouse/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/expatservices</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/optiekexclusief/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/bierhandeldekroon</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/leosteavns/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/kitetrotter</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/vinix/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/valuexstream</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/assurinvest/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dipenmodidesigns.github.io/projects/europeancapitalpartners</loc>
+    <loc>https://dipenmodidesigns.github.io/projects/altwood/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/medbyrosa/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/cdlawyers/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/immomargriet/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/akanni/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/expatservices/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/bierhandeldekroon/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/kitetrotter/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/valuexstream/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dipenmodidesigns.github.io/projects/europeancapitalpartners/</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
